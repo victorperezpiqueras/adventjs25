@@ -1,0 +1,24 @@
+{
+  "name": "adventjs25",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/victorperezpiqueras/adventjs25#readme",
+  "bugs": {
+    "url": "https://github.com/victorperezpiqueras/adventjs25/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorperezpiqueras/adventjs25.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}

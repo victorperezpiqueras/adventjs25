@@ -43,7 +43,7 @@ console.log(good3);
 
 /* 
 Difficulty: easy
-Grade: ⭐⭐⭐⭐⭐⭐⭐⭐
+Grade: ⭐⭐⭐⭐⭐
 Code review: 9/10
 ✓ Strengths:
 • The code is concise and effectively uses the `filter` method.
